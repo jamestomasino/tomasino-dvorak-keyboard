@@ -9,3 +9,7 @@ Layer 0:
 Layer 1:
 
 ![image](images/layer-1.png)
+
+## Notes
+
+- Left shift and right shift when tapped perform ctrl-left and ctrl-right respectively for switching desktops on OSX.
